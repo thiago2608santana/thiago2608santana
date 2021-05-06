@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @thiago2608santana
+- 👀 I’m interested in Machine Learning, Deep Learning, Statistics and Math
+- 🌱 I’m currently learning Machine Learning and Deep Learning
+- 💞️ I’m looking to collaborate on Machine Learning and Deep Learning
+- 📫 How to reach me: thiago2608santana@gmail.com
